@@ -1,0 +1,2 @@
+# GTNL_2.9_Server_Autoupdate
+给gtnl小团体服务器玩的客户端自动更新仓库
