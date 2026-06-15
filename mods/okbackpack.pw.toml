@@ -1,0 +1,8 @@
+name = "okbackpack"
+filename = "okbackpack-26.06.14.0-bugfix.2+99e3eb83a0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Psimoo/GTNL_2.9_Server_Autoupdate/raw/refs/heads/main/mods/okbackpack-26.06.14.0-bugfix.2+99e3eb83a0.jar"
+hash-format = "sha256"
+hash = "e07067056650bc64bb9e6fef555abb696dd3b5ee4e1164cdfeaaf310bfd11bce"

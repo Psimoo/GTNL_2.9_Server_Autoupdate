@@ -22,13 +22,30 @@ file = "mods/okbackpack-26.06.14.0-bugfix.2+99e3eb83a0.jar"
 hash = "e07067056650bc64bb9e6fef555abb696dd3b5ee4e1164cdfeaaf310bfd11bce"
 
 [[files]]
+file = "mods/okbackpack.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/okcore-26.06.14.2.jar"
 hash = "9098b5b894b400e9a4c5e170e7225dcbcb1ee1a7e0609eedf062b88aa1e2f0e1"
+
+[[files]]
+file = "mods/railcraft.pw.toml"
+hash = "328932a66f7e03daee2e1f6cb62a7318862116dd0cef1814fcc81e139529dd00"
+metafile = true
 
 [[files]]
 file = "mods/sciencenotleisure-0.2.6-dev-290.59+0edeeded0d.jar"
 hash = "dd69a7cf0fc52cd6a43ab723dba0e8fea165ffbb5cccaa6113eda37c77c38c7a"
 
 [[files]]
-file = "sciencenotleisure-0.2.6-dev-290.59+0edeeded0d.jar"
-hash = "dd69a7cf0fc52cd6a43ab723dba0e8fea165ffbb5cccaa6113eda37c77c38c7a"
+file = "mods/sciencenotleisure.pw.toml"
+metafile = true
+
+[[files]]
+file = "refresh.bat"
+hash = "8bca83a4e216244376d672e6d34a2fb4dff1868dfb0aed5b71f50aca09085fcc"
+
+[[files]]
+file = "基础名"
+hash = "6dda0255ef50b8a57e58f5ce224bfc695008210ca97055a2999a279f050447c4"

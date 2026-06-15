@@ -1,0 +1,8 @@
+name = "Railcraft"
+filename = "Railcraft-9.17.26-master.1+71103e19b0-dirty.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Psimoo/GTNL_2.9_Server_Autoupdate/refs/heads/main/mods/Railcraft-9.17.26-master.1%2B71103e19b0-dirty.jar"
+hash-format = "sha256"
+hash = "2a59ae2a9eed001897a8cefe805a051ebd56ebc6464f640911af57419b2e3927"
