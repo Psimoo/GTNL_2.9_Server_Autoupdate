@@ -3,6 +3,6 @@ filename = "sciencenotleisure-0.2.6-dev-290.59+0edeeded0d.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Psimoo/GTNL_2.9_Server_Autoupdate/raw/refs/heads/main/mods/sciencenotleisure-0.2.6-dev-290.59+0edeeded0d.jar"
+url = "https://raw.githubusercontent.com/Psimoo/GTNL_2.9_Server_Autoupdate/refs/heads/main/mods/sciencenotleisure-0.2.6-dev-290.59+0edeeded0d.jar"
 hash-format = "sha256"
 hash = "dd69a7cf0fc52cd6a43ab723dba0e8fea165ffbb5cccaa6113eda37c77c38c7a"

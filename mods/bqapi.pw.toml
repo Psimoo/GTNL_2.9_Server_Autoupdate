@@ -1,0 +1,8 @@
+name = "bqapi"
+filename = "bqapi-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Psimoo/GTNL_2.9_Server_Autoupdate/refs/heads/main/mods/bqapi-1.1.2.jar"
+hash-format = "sha256"
+hash = "160f4c0b8ada5fccdbbfa53c1e6a98e17545c0a4955c5db1398ce21a40dab2c0"

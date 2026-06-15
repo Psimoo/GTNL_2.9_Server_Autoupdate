@@ -1,0 +1,8 @@
+name = "okcore"
+filename = "okcore-26.06.14.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Psimoo/GTNL_2.9_Server_Autoupdate/refs/heads/main/mods/okcore-26.06.14.2.jar"
+hash-format = "sha256"
+hash = "9098b5b894b400e9a4c5e170e7225dcbcb1ee1a7e0609eedf062b88aa1e2f0e1"

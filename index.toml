@@ -5,6 +5,10 @@ file = "README.md"
 hash = "cf6d651112933dd463c27364930d0178d4edb3105c1e033c5c5139c643faac11"
 
 [[files]]
+file = "Refresh.ps1"
+hash = "197cae2aa65fc52112357e9b9c4469bdc25520851eef119a9d47690695b4c932"
+
+[[files]]
 file = "mods/Railcraft-9.17.26-master.1+71103e19b0-dirty.jar"
 hash = "2a59ae2a9eed001897a8cefe805a051ebd56ebc6464f640911af57419b2e3927"
 
@@ -13,8 +17,8 @@ file = "mods/bqapi-1.1.2.jar"
 hash = "160f4c0b8ada5fccdbbfa53c1e6a98e17545c0a4955c5db1398ce21a40dab2c0"
 
 [[files]]
-file = "mods/ok-core.pw.toml"
-hash = "e2711a5566facbcda42710083f0ad47d3991cb686e7dfc256eaf6b8610b3c5ad"
+file = "mods/bqapi.pw.toml"
+hash = "b06d9e66800f4f2a1b819a549cf1dba0a47ab2b6eeb069701a853221556735b6"
 metafile = true
 
 [[files]]
@@ -23,6 +27,7 @@ hash = "e07067056650bc64bb9e6fef555abb696dd3b5ee4e1164cdfeaaf310bfd11bce"
 
 [[files]]
 file = "mods/okbackpack.pw.toml"
+hash = "46fbc01080e3ea57c22ed515c654d2913103c6d7ce0679485d0a3e1cd7a854a9"
 metafile = true
 
 [[files]]
@@ -30,8 +35,13 @@ file = "mods/okcore-26.06.14.2.jar"
 hash = "9098b5b894b400e9a4c5e170e7225dcbcb1ee1a7e0609eedf062b88aa1e2f0e1"
 
 [[files]]
+file = "mods/okcore.pw.toml"
+hash = "c36fb4e2bb7e800c0f85d61c991ddd676c6adac8ef74426d82be4f191afb3d8b"
+metafile = true
+
+[[files]]
 file = "mods/railcraft.pw.toml"
-hash = "328932a66f7e03daee2e1f6cb62a7318862116dd0cef1814fcc81e139529dd00"
+hash = "6e2a8889422bf81caf6cb0909c90eec978baa4376d2e4db11ca2e41284ae6f7e"
 metafile = true
 
 [[files]]
@@ -40,11 +50,16 @@ hash = "dd69a7cf0fc52cd6a43ab723dba0e8fea165ffbb5cccaa6113eda37c77c38c7a"
 
 [[files]]
 file = "mods/sciencenotleisure.pw.toml"
+hash = "51164efb45d70f6a9fe9754b3c1d498dd70745bb1567a4f3196009ada42c6780"
 metafile = true
 
 [[files]]
 file = "refresh.bat"
-hash = "8bca83a4e216244376d672e6d34a2fb4dff1868dfb0aed5b71f50aca09085fcc"
+hash = "84941299be0e88df0ef5afaf984a05e5bf288f7890ac9c4ababb7f9df0f8c97e"
+
+[[files]]
+file = "刷新url.bat"
+hash = "e27bc7881e85182004906e6e86eca817184fbdfd55ffb339c5ca9063c776fbb5"
 
 [[files]]
 file = "基础名"
