@@ -1,0 +1,13 @@
+name = "Applecore Unofficial 1.7.10"
+filename = "AppleCore-3.3.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c152780f828754f815c827e1c79e574c522cb7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8156373
+project-id = 782158

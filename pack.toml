@@ -1,0 +1,13 @@
+name = "自动更新的GTNL2.9_Java25_Prism安装包"
+author = "Psi"
+version = "20260615"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "aff0661cf20f239218a7e20f08eab1f9ba23725bfef23d662c7dc4ecd22068a8"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

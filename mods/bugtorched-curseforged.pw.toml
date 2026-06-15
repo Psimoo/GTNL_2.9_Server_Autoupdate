@@ -1,0 +1,13 @@
+name = "BugTorched-Curseforged Fork"
+filename = "BugTorched-1.7.10-1.2.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af7335bf296b80ec018080078e1c050f56db1013"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7282941
+project-id = 1396067

@@ -1,0 +1,13 @@
+name = "Gadomancy Unofficial"
+filename = "gadomancy-1.5.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f36d0c979d6ca4bf9fa861269ac0136d0a068cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8177076
+project-id = 1518812
